@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rithmschool/travis-ci-demo.git"
+    "url": "git+https://github.com/tahlilislam/travis-git-demo.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rithmschool/travis-ci-demo/issues"
+    "url": "https://github.com/tahlilislam/travis-git-demo/issues"
   },
   "homepage": "https://github.com/rithmschool/travis-ci-demo#readme",
   "dependencies": {
